@@ -1,8 +1,8 @@
 <topics>
-  <topic>
+<topic>
     <id>https://guides.loc.gov/chronicling-america-early-jazz/selected-articles</id>
     <results>
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn83045217/1921-01-22/ed-1/?sp=1&q=Jazz+Saxophone&r=0.021,0.849,0.508,0.256,0</id>
 	<rel>1</rel>
 	<text>Saxophone Wail, Jazz
@@ -28,8 +28,8 @@ from dancing the modern steps, was
 adopted and will be sent to the In
 dian bureau of the department of
 the interior at Washington.</text>
-      </result>
-      <result>
+    </result>
+    <result>
 	<id>https://www.loc.gov/resource/sn87093354/1921-02-01/ed-1/?sp=10&q=jazz&r=0.102,0.255,0.647,0.327,0</id>
 	<rel>1</rel>
 	<text>Just what is jazz? One has a vague idea of a dis
@@ -152,7 +152,7 @@ now c..11 a necessary evil is there not a chance of jazz
 becoming the key to open our souls to the passions our
 fore fathers nave spent generations in trying to over
 come</text>
-      </result>
+    </result>
     <result>
 	<id>https://www.loc.gov/resource/sn83030214/1920-08-15/ed-1/?sp=55&q=danc+Dance+dancing+jazz</id>
 	<rel>1</rel>
@@ -575,9 +575,9 @@ nations which so quickly adopted the
 American craze will see its Ameri?
 can demise spread across the seas.
 Jazz has had its day.</text>
-      </result>
+	</result>
 
-      <result>
+	<result>
 	<id>https://www.loc.gov/resource/sn88076526/1922-01-25/ed-1/?sp=3&q=dance+dancing+jazz</id>
 	<rel>1</rel>
 	<text>Ask the historian and he will tell' and serve it so mildly that all the
@@ -667,10 +667,7 @@ with. of lashed nerves that is behind
 With the jazz dance and for it we
 I -do*" not- believe a bridgroom or
 biidc ever lived who did not register
-AW. WHAT'S THE USE
-HOPS ON CROWDED
-0 TCOLLEN CAR-
-^ome picture: That sew.. to be
+...
 the popular verdict on Rev. P. H.
 Case's sermon Sunday n'ght relating
 to drinking,. dancing and dissipation,
@@ -712,9 +709,9 @@ of Aphrodite" which is dep-cted in
 that play and which ruin ad one cf thj
 greatest civilizations the world has
 ever known.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn85058393/1922-06-18/ed-1/?sp=34&q=dance+dances+dancing+jazz</id>
 	<rel>1</rel>
 	<text>Among those complaining have been the
@@ -727,9 +724,9 @@ considered to be the proper performers
 on jazz instruments, and restaurants and
 dance halls will employ only them. It
 is called the "Black Peril."</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn78001466/1921-09-19/ed-1/?sp=6&q=dancing+jazz+Jazz</id>
 	<rel>1</rel>
 	<text>Jazz dancing and jazz
@@ -740,9 +737,9 @@ in sporty automobiles, simulates con
 tempt for Mrs. Grundy's ideas and
 shows a determination to do every
 thing in a fast and snappy way.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn83045774/1921-03-13/ed-1/?sp=82&q=immoral+jazz</id>
 	<rel>1</rel>
 	<text>"Jazz, for example, I think, was invented
@@ -766,9 +763,9 @@ to help I's, but not very much. To rely
 upon legislation as a safeguard against
 immorality in art?that is, as a real safe
 guard?Is a great mistake.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn85038531/1919-09-03/ed-1/?sp=6&q=Immoral+Jazz</id>
 	<rel>1</rel>
 	<text>We appeal to mothers
@@ -782,30 +779,30 @@ Six months ago we pre
 dicted that the dancing teachers' as
 sociation would wage war on "Jazz,"
 and our prediictlon has come true.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn83045774/1922-10-15/ed-1/?sp=121&q=immoral+jazz&r=-0.023%2C0.044%2C0.699%2C0.353%2C0&st=text</id>
 	<rel>0</rel>
 	<text></text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn90066132/1922-03-16/ed-1/?sp=6&q=Immoral+Jazz&r=-0.036,1.158,0.341,0.172,0</id>
 	<rel>0</rel>
 	<text></text>
-      </result>
+    </result>
 
     <!-- additional --> 
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn83016244/1955-02-28/ed-1/?sp=7&q=early+jazz+opposition&r=0.361%2C0.203%2C0.632%2C0.319%2C0&st=text</id>
 	<rel>1</rel>
 	<text>Others contend that jazz and
 jazzmen have long since outgrown
 their gaudy origins.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn87065031/1922-01-11/ed-1/?sp=4&q=early+jazz+opposition&r=0.122%2C0.7%2C0.519%2C0.262%2C0&st=text</id>
 	<rel>1</rel>
 	<text>At the recent State convention of supervisors
@@ -825,33 +822,33 @@ jazz band. 1 ho jazz has had its season an un
 usually long one and another generation is at
 the door ready to give it the ax. It may be able
 to furnish its own requiem, but thats about all.</text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn86076141/1928-10-13/ed-1/?sp=1&q=early+jazz+opposition&r=0.044,0.924,0.682,0.344,0</id>
 	<rel>0</rel>
 	<text></text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn87065528/1946-01-04/ed-1/?sp=4&q=early+jazz+opposition&r=0.131,0.778,0.695,0.351,0</id>
 	<rel>0</rel>
 	<text></text>
-      </result>
-      
-      <result>
+    </result>
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn83030193/1922-04-18/ed-1/?sp=12&q=early+jazz+opposition&r=-0.238,0.104,1.592,0.803,0</id>
 	<rel>0</rel>
 	<text></text>
-      </result> 
+    </result> 
     </results>
-  </topic>
+</topic>
 
 
-  <topic>
+<topic>
     <id>https://guides.loc.gov/chronicling-america-early-cinema/selected-articles</id>
     <results>
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn83030272/1882-11-18/ed-1/?sp=1&q=GAITS+HORSES&r=0.524%2C0.836%2C0.19%2C0.096%2C0&st=text</id>
 	<rel>1</rel>
 	<text>Motions that Artists Err DRY Fled t
@@ -1016,12 +1013,12 @@ photographed hud their wings down below
 their bodies and said that but two peoples had
 over pictured birds in that natural position the
 Egyptians and the Japanese</text>
-      </result>
+    </result>
 
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn83030214/1882-04-16/ed-1/?sp=9&q=PHOTOORAPHIXG+FLIGHT&r=0.398,0.212,0.354,0.178,0</id>
 	<rel>1</rel>
-  <!--the text is kinda borken here, but it is basically about the reproduction of birds' flying through photos-->
+<!--the text is kinda borken here, but it is basically about the reproduction of birds' flying through photos-->
 	<text>PHOTOORAPHIXG FLIGHT.
 Mr. Muybridgo, of San Vvr.Aaco, having
 ahown photographerH how to take pu l iroa ol a
@@ -1038,16 +1035,16 @@ plntca were gelatino bromide of lilver, wluch
 roiild, ii mi il. take an impruaaio i ,i I 1500 of
 n-pln n.iki-.fi-.,-n;., nf I'latc.ui. tln flying of the
 l.inl waa ea&ily ro] roduci d.</text>
-      </result>
+    </result>
 
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn83030214/1889-04-28/ed-1/?sp=28&q=KODAK+CAMERA</id>
 	<rel>0</rel>
-  <!--the text is broken to the point of illegible-->
+<!--the text is broken to the point of illegible-->
 	<text></text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn85058130/1891-05-29/ed-1/?sp=1&q=KINETOGRAPH</id>
 	<rel>1</rel>
 	<text>THE KINETOGRAPH I
@@ -1346,8 +1343,9 @@ arm andther part the ext another and so
 on and as the arms whirl rapidly around
 one looking on sees only a perfect picture
 That is the whole scheme</text>
-      </result>      
-      <result>
+    </result>
+	
+    <result>
 	<id>https://www.loc.gov/resource/sn85058130/1894-09-03/ed-1/?sp=1&q=KINETOSCOPE</id>
 	<rel>1</rel>
 	<text>A LOOK INTO THE KINETOSCOPE
@@ -1391,12 +1389,12 @@ box ofera our very eyes At all events
 the kinetoscope will preserve what has
 never betn preserved before save in the
 word painting of variable writers</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn85066387/1896-04-12/ed-1/?sp=25&q=NOVELTIES</id>
 	<rel>1</rel>
-  <!--There are movies with only photos without explicit movement, so granted it is relevant-->
+<!--There are movies with only photos without explicit movement, so granted it is relevant-->
 	<text>The Fluoroscope.
 There has already appeared in these
 columns a description of the ''Fluoro-
@@ -1413,9 +1411,9 @@ is held over the i>art to be examined with
 the light beyond. The appearance of the
 bone at once appears on the inside of the
 screen, which forms the bottom of the box.</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn99021999/1896-04-19/ed-1/?sp=16&q=LATEST</id>
 	<rel>1</rel>
 	<text>EDISON'S LATEST
@@ -1492,9 +1490,9 @@ tion of a grand opera and hear the singers
 and see the acting with as much distinctness
 of sound and vision as if they were in the
 opera house</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn85066387/1898-11-19/ed-1/?sp=9&q=Corporation</id>
 	<rel>1</rel>
 	<text>A New Corporation.
@@ -1510,9 +1508,9 @@ ful miniature biograph that has been
 creating a great sensation here and
 abroad, the original owners of which have
 already amass«d a fortune.</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn84026749/1902-12-18/ed-1/?sp=1&q=ARHAT&r=0.534%2C1.186%2C0.21%2C0.106%2C0&st=text</id>
 	<rel>1</rel>
 	<text>ARHAT COMPANY WINS ITS ITSSUIT ITSSUIT
@@ -1537,9 +1535,9 @@ a suit It for 1M 1 M damages maxtMI and an ac accounting ReIcl
 counting cl against the American Mute Muteseeee lua luaHeft8
 seeee and Blagraph Company of Kew KewYerk e eYork
 York</text>
-      </result>      
-      
-      <result>
+    </result>      
+
+    <result>
 	<id>https://www.loc.gov/resource/sn85042462/1905-09-03/ed-1/?sp=83&r=-0.075%2C0.246%2C0.401%2C0.202%2C0&st=text</id>
 	<rel>1</rel>
 	<text>Not tha
@@ -1579,9 +1577,9 @@ Miles Brothers and other large con
 cerns In the moving picture line will
 be brought on to help take and develop
 the moving pictures.</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn83045462/1933-08-06/ed-1/?sp=42&q=motion+picture+early&r=-0.033,0.078,0.719,0.363,0</id>
 	<rel>1</rel>
 	<text>THIS is that time of the year when, on tha brink of a Hollywood
@@ -1701,9 +1699,9 @@ fuses to be starred.
 "ZOO IN BUDAPEST" and FARE- 1
 WELI, TO ARMS' Because they ar.'
 our favorite films.</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn83045462/1937-06-20/ed-1/?sp=83&q=motion+picture+early&r=-0.075%2C0.448%2C0.741%2C0.374%2C0&st=text</id>
 	<rel>1</rel>
 	<text>To have been born in the Twentieth
@@ -1905,9 +1903,9 @@ are telling me what an old-fashioned story
 structure the book has, how we could improve
 it." He smiled. "I'll string along with Mark
 Twain."</text>
-      </result>      
-      
-      <result>
+    </result>      
+
+    <result>
 	<id>https://www.loc.gov/resource/sn87062268/1917-02-19/ed-1/?sp=5&q=motion+picture+early&st=text&r=0.045,0.293,0.203,0.203,0</id>
 	<rel>1</rel>
 	<text>A large number of sorrowing
@@ -1991,9 +1989,9 @@ on tomorrow requires' painting on
 lob, the results justify it, as Pathe
 colored films are startling In their
 beauty.</text>
-      </result>      
-      
-      <result>
+    </result>      
+
+    <result>
 	<id>https://www.loc.gov/resource/sn83045462/1937-12-18/ed-1/?sp=3&q=motion+picture+early&st=text&r=-0.195,-0.071,0.688,0.688,0</id>
 	<rel>1</rel>
 	<text>—Following receipt by the National
@@ -2062,9 +2060,9 @@ sequent pictures were lifted somewhat
 in moral tone, her insinuating inflec
 tions have remained to torture cen
 sors.</text>
-      </result>      
-      
-      <result>
+    </result>      
+    
+    <result>
 	<id>https://www.loc.gov/resource/sn82016014/1922-10-13/ed-1/?sp=16&q=motion+picture+early&r=0.267%2C0.678%2C0.48%2C0.242%2C0&st=text</id>
 	<rel>1</rel>
 	<text>The public should wake up to the fact tha t we are bringing to Topeka America's
@@ -2090,15 +2088,15 @@ THIS PICTURE
 4s big enough and good enoagh
 to be run a wrek, but it's here
 only two days "KI".</text>
-      </result>     
+    </result>     
     </results>
-  </topic>
+</topic>
 
 
-  <topic>
+<topic>
     <id>https://guides.loc.gov/chronicling-america-belle-gunness-murder-farm</id>
     <results>
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn86090383/1908-05-06/ed-1/?sp=1&q=body+La+Belle+Porte+Gunness+bodies&st=text&r=0.336,0.214,0.161,0.162,0</id>
 	<rel>1</rel>
 	<text>Find Three More New Graves on the
@@ -2227,9 +2225,9 @@ ble stones buried about two feet un
 Today Destroyed Much Property Be
 llJIeved Three People Have Been
 Burned to Death</text>
-      </result>
+    </result>
             
-      <result>
+    <result>
 	<id>https://www.loc.gov/resource/sn85052114/1908-05-08/ed-1/?sp=2&q=body+Matrimonial+Belle+matrimonial+Gun+bodies&st=text&r=0.298,0.657,0.168,0.169,0</id>
 	<rel>1</rel>
 	<text>Federal Authorities Order All
@@ -2434,8 +2432,9 @@ since their exhumation Tho men I
 raised a window of the building and
 ono of them had already mado his
 way Into the morgue when dlscov I</text>
-      </result>      
-      <result>
+    </result>
+
+    <result>
 	<id>https://www.loc.gov/resource/sn86063756/1908-05-08/ed-1/?sp=1&q=farm+Belle+death+Gunness</id>
 	<rel>1</rel>
 	<text>TALE OF HORROR
@@ -2540,9 +2539,10 @@ ings, and hisNcertainty led the coroner
 to accept his 'Identificatlcn for the
 -present.
 -j</text>
-      </result>      
-      
-      <result>
+</result>      
+
+	<!--This text is reproduced in poor condition, a lot of repetitions.-->
+    <result>
 	<id>https://www.loc.gov/resource/sn83045433/1908-05-10/ed-1/?sp=1&q=murder+murderer+Belle+Gunness+murdered+MURDER+human+Murder+bodies&r=0.049%2C0.195%2C0.378%2C0.191%2C0&st=text</id>
 	<rel>1</rel>
 	<text>LURED RD T TO DEATH DEATHBY D T TBY
@@ -2883,14 +2883,6 @@ had been badly mutilated. The body
 of the other man show- red mustache.
 The discovery of the bodies primarily
 was due to the efforts of Mr. llelge-
-j
-AXDIUEW
-HELOGOEJ
-JO UN
-HELDfinitf
-
-T cr @ft i
-'teF feaiJ
 lein of Mansliehl SD. brother f
 Andrew The lormer bad known of
 bis brother"- i rn sp ndence with Mrs.
@@ -3026,8 +3018,6 @@ Gunnes to lx) a BUltor for the hand of her adopted daughter. Jennie Olsen,
 and flint he never kneu uhnt Uiiwie uf the man. Miss Olson's tvly w:im
 one f Uhm found burled n the premium, along with eight others. When
 CHiiitht I jiii phetv wrm hiding In a hollow tree.
-t
-X
 RUINS 0? GUNNESS HOUSt, LAFORTE.
 I'ie inrinliiui of Sirs Belie Gtmtic a n.i e frem Luporte. Iml., was
 totally destroyed by lire on the night of April 1!7 This lire led to the discovery
@@ -3052,23 +3042,7 @@ certulu Hpots In the yard of the burned farmhouse where, he said, he hud
 bceu Instructed by Mrs Gutfliesa from tlmo to time to deposit such rubblah
 ns was to be thrown nway. The nine bodies of persons supposed to bur
 Oecu murdered by Mrs. dunness were dug up at points Maxson Indicated.
--Jl
-T l" i-
-tH .ii.)-"
-HH9t$M sis1
-MI. I MI tfysi
-BWPBBff StEP Wf;. fWp 'iff j&mKk 4
-UVKKSKmi
-K0&J;fcl2?imfij
-nntHjiUM
-Bw 1ft
-iBofH
-ASSv VT7"
-rag
-SS24"
-18? KUCKilg r"
-3
-'v&3 ossa a
+...
 MRS. BELLE GUNNESS, OF LAPORTE'S MURDER FARM.
 Mrs. Jlelle Ounness, tho widow mispWed of the murder of the persons
 whose iKvlles were dug npffroui Uio premlsi of her burnwl home n mile from
@@ -3086,17 +3060,7 @@ of gold work done on her teeth The grewsome mystery of the missing
 head, It was said by those who held the theory of the flight of Mrs. Ounness,
 was explained by the woman's r t! :it 'o left her substitute's head on
 the body It would be evident thai k..o her- s not a victim of the fire.
-til ''?t
-I
-IP Ct' v?lK iV'eisJKf.
-If 1 Sff
-It,9 I Vvife ',mM
-IIHwl& vtfHilsEtiyBB
-STATE
-AT"iu.... ..Of U.
-SMITH.
-V
-f
+...
 ANDREW HELGELEIN, ONE OF MRS. GUNNESS' VICTIMS.
 One oi tie ...e uhiIi.s disinterred from the premises of Mrs. Belle Ounness,
 near Luporte, lud., wns Identllled as thut of Andrew llelgeleiu, a wealthy
